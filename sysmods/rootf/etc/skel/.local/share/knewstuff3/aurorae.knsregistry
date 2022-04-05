@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>McSur-dark Aurorae Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1406026</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>15733</downloads>
+  <installedfile>/home/mena/.local/share/aurorae/themes/McSur-dark/*</installedfile>
+  <id>1406026</id>
+  <releasedate>2021-01-27</releasedate>
+  <summary>McSur kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+    &lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406038/" target="_blank" rel="nofollow">https://www.pling.com/p/1406038/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-light Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402092/" target="_blank" rel="nofollow">https://www.pling.com/p/1402092/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402093/" target="_blank" rel="nofollow">https://www.pling.com/p/1402093/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402091/" target="_blank" rel="nofollow">https://www.pling.com/p/1402091/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402095/" target="_blank" rel="nofollow">https://www.pling.com/p/1402095/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1402094/" target="_blank" rel="nofollow">https://www.pling.com/p/1402094/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1402090/" target="_blank" rel="nofollow">https://www.pling.com/p/1402090/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406030/" target="_blank" rel="nofollow">https://www.pling.com/p/1406030/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406025/" target="_blank" rel="nofollow">https://www.pling.com/p/1406025/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406032/" target="_blank" rel="nofollow">https://www.pling.com/p/1406032/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1406027/" target="_blank" rel="nofollow">https://www.pling.com/p/1406027/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1406023/" target="_blank" rel="nofollow">https://www.pling.com/p/1406023/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-alt Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1448409/" target="_blank" rel="nofollow">https://www.pling.com/p/1448409/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>BigSur icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1399044/" target="_blank" rel="nofollow">https://www.pling.com/p/1399044/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1406026/37763fff5243b7857b11a1a049187ce150ef1055f166b1bf5f0e39061a623d01eb0d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1406026/37763fff5243b7857b11a1a049187ce150ef1055f166b1bf5f0e39061a623d01eb0d.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTE3NDIzNTkiLCJvIjoiMSIsInMiOiJlMmJlMmZiNzgyMmY0YTY4M2M5NjY3MzVjMGVkNGY3MjQ1YmJkZmY0MmFhYmY1Y2IzMzc0MGNmNjZjZmQ0MjBlNzcwMDFkNTZkOTBmZWE1YWM3MjExNmYyY2JkZTNhZGQ1YzQwMTFiNWQwY2JjNDA0OTdmODM4ODhlN2RhMDU5OSIsInQiOjE2NDc1NzUzNzQsInN0ZnAiOm51bGwsInN0aXAiOiIxNTYuMjA5LjcxLjIyOSJ9.Ja3EO-xpSFjN7LRfsSjpvsZhxb8QOzf00SRanblgALs/McSur-dark.zip</payload>
+  <tags>original-product,plasma,linux,gplv3,kde,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>WhiteSur Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398835</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>56</rating>
+  <downloads>428424</downloads>
+  <installedfile>/home/mena/.local/share/aurorae/themes/WhiteSur_x2.0/*</installedfile>
+  <installedfile>/home/mena/.local/share/aurorae/themes/WhiteSur_x1.5/*</installedfile>
+  <installedfile>/home/mena/.local/share/aurorae/themes/WhiteSur-dark_x2.0/*</installedfile>
+  <installedfile>/home/mena/.local/share/aurorae/themes/WhiteSur_x1.25/*</installedfile>
+  <installedfile>/home/mena/.local/share/aurorae/themes/WhiteSur-dark_x1.25/*</installedfile>
+  <installedfile>/home/mena/.local/share/aurorae/themes/WhiteSur-dark/*</installedfile>
+  <installedfile>/home/mena/.local/share/aurorae/themes/WhiteSur-dark_x1.5/*</installedfile>
+  <installedfile>/home/mena/.local/share/aurorae/themes/WhiteSur/*</installedfile>
+  <installedfile>/home/mena/.local/share/aurorae/themes/WhiteSur-Sharp-dark/*</installedfile>
+  <installedfile>/home/mena/.local/share/aurorae/themes/WhiteSur-Sharp/*</installedfile>
+  <id>1398835</id>
+  <releasedate>2020-07-23</releasedate>
+  <summary>MacOS big sur theme for kde plasma&lt;br />
+---------------------------------------&lt;br />
+&lt;strong>Fix for Aurorae theme:&lt;/strong>&lt;br />
+Go to the &lt;strong>"Application Style &amp;gt; Window Decorations"&lt;/strong> and set the boder to &lt;strong>"Tiny"&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1398835/ad2aae0df61ba06b53fb73d40cccff2d1b30.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1398835/ad2aae0df61ba06b53fb73d40cccff2d1b30.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTU1NTU5NTAiLCJvIjoiMSIsInMiOiI2ZWM2MjM2ZGI3NGZjYTAzYzA0YzUyMWRmYzE0ZTMyNTk3NmE4YzQ3ZTM2ZWQzOWEyMTU3ZmY3YjAxNWZkMzAxNjUwNDkzZjE0OGU3NWFiZDY1NThjOTQ0NzdkOGNkY2ViOTQ4OTJiYmM4ODNmNDY5NWJkNzQ2M2U2M2FhYWIxMSIsInQiOjE2NDc0MTcwNTMsInN0ZnAiOm51bGwsInN0aXAiOiIxNTYuMjA5LjMyLjE4MiJ9.3XD2MZW_KiGsd3rEp_Aos7diy5pSeNDTMeR6MnZZf3A/WhiteSur.tar.xz</payload>
+  <tags>kde,linux,gplv3,unix,theme,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Deepin-Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1414438</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>57</rating>
+  <downloads>22937</downloads>
+  <installedfile>/home/mena/.local/share/aurorae/themes/deepin-dark/*</installedfile>
+  <id>1414438</id>
+  <releasedate>2020-08-21</releasedate>
+  <summary>Deepin version dark</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/1414438/ddf83daed36f3b1e46547b620badfadf3144f364b29bd2eba7b9c5b3430e28593c09.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/1414438/ddf83daed36f3b1e46547b620badfadf3144f364b29bd2eba7b9c5b3430e28593c09.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTc5ODk5NjQiLCJvIjoiMSIsInMiOiJmMzRjZDI0N2M4MzM0MzllOGE0MzY2ZjM1NDI1ZDNiZDZhN2E0ZDI3ZDgwNjllMjc2MjQzZGZmOTc5NGUwYmI4NTdmYTE5YTgzY2E0YmI0OWRhZTFlOTAwODExYTNkZjZjOWUxZTU4NzU4ZTZiMjY4MzY2NmQ5YmRhNDhkNWNjZiIsInQiOjE2NDgxMjUwNjgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTQuMTc4LjE5My4xMjkifQ.SwSmFbi2FH01Cskte1gm4m9oE0U8_zuym_LEtRvgtzw/deepin-dark.tar.gz</payload>
+  <tags>linux,efi,kde,plasma,agplv3,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

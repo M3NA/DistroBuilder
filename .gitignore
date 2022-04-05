@@ -1,0 +1,4 @@
+tmp/
+*.iso 
+sysmods/Programs
+sysmods/rootf/var/lib/anbox/

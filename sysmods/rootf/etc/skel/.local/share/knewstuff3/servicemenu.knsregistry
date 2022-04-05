@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="102">
+  <name>Add exe games to Lutris library</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>loup</author>
+  <homepage>https://store.kde.org/p/1388274</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>55</rating>
+  <downloads>3371</downloads>
+  <installedfile>/home/mena/.local/share/servicemenu-download/addexetolutris.desktop</installedfile>
+  <id>1388274</id>
+  <releasedate>2020-05-29</releasedate>
+  <summary>Allows you to add exe (windows) program via dolphin to Lutris&lt;br />
+&lt;br />
+Lutris is an Open Source gaming platform for Linux. It installs and launches games so you can start playing without the hassle of setting up your games. &lt;br />
+&lt;br />
+The addon is using : "lutris -i" command and the...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/42/80/1388274/06b412cb08925d2dacaeea0156cdc9d1c8a9.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/42/80/1388274/06b412cb08925d2dacaeea0156cdc9d1c8a9.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTA3NTI0NzEiLCJvIjoiMSIsInMiOiI4OTI3OTNmNzJmMDVhZDFhNjMzMDY0ZDUzYWYxZjhmZTRlNjJhOTFlNDA5MjU3MDI5NDk4YmFmZTI3NGY5YmYxNDc5YTAyMjFmYWQyMmY1NTkwOGVlMzc2YjgyMTMyZWEzNWZlZmFkMTdjNDZkYzY3MWFmMGU2YzhkOWE0YmQ0NCIsInQiOjE2NDc5NTY3NDgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTYuMjA5LjE0OS45In0.O6b5pM9_Dq5sSfYRhrwhfwRKCBIWUFssrmff7Zo7358/addexetolutris.desktop</payload>
+  <tags>lutris,lgplv3,gaming,install,windows,wine,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>SquashFS mounter / unmounter - no root required</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Shevchuk</author>
+  <homepage>https://store.kde.org/p/1410382</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>296</downloads>
+  <installedfile>/home/mena/.local/share/servicemenu-download/squashfs-mount.desktop</installedfile>
+  <id>1410382</id>
+  <releasedate>2021-03-19</releasedate>
+  <summary>⋅ Mount SquashFS file using "Mount SquashFS". No root required.&lt;br />
+  ⋅ After mounting it opens created mount point in your file manager.  &lt;br />
+    It creates a mount point in `/tmp` using the name of the file being mounted + first 8 characters of file path's `sha256` hash.&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/45/12/56/1410382/9e018b5da38bcda01ac7001cfeb0c3b4edd5841bbbb198deaa30ac82d727a4e80a61.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/45/12/56/1410382/9e018b5da38bcda01ac7001cfeb0c3b4edd5841bbbb198deaa30ac82d727a4e80a61.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTYxOTA3NzYiLCJvIjoiMSIsInMiOiIzZmFjY2VkZDEyZWQxNGZlZWE2ZGU4NzY0YzA3YmMxMDdkZWRhNzdlOTA2NWRhMzUyNWEwNjBiOGUwMWMxN2E5NzA4OWI1ZWIzMDNhYmI2YmU4ODkyZTA4OGQzODU5YmMwMDg1ZWY1NzVmYjBkYWJlMjQyMmI0NmJmZjI5YzhmYSIsInQiOjE2NDgwODU4NzcsInN0ZnAiOm51bGwsInN0aXAiOiIxNTQuMTc4LjE5My4xMjkifQ.jYh_31Rg6j3hUWaRvHJeWkEQ2dyZjhhLljqXJ1gZ3vU/squashfs-mount.desktop</payload>
+  <tags>fuse,mit-license,mount,original-product,squashfs,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>Extract Icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>risu</author>
+  <homepage>https://store.kde.org/p/1323525</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>905</downloads>
+  <installedfile>/home/mena/.local/share/servicemenu-download/ExtractIcons.desktop</installedfile>
+  <id>1323525</id>
+  <releasedate>2019-09-08</releasedate>
+  <summary>Menu for extracting icons from the Windows executable files. &lt;br />
+Package "icoutils" is required (sudo apt install icoutils).&lt;br />
+&lt;br />
+Manual installation:&lt;br />
+Copy 'ExtractIcons.desktop' to ~/.local/share/kservices5/ServiceMenus/.&lt;br />
+&lt;br />
+&lt;br />
+Please rate and click on the Pling...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/39/49/1323525/f626ccd0009a957b046cccdad1929285dda31.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/39/49/1323525/f626ccd0009a957b046cccdad1929285dda31.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njc5NzMxNTEiLCJvIjoiMSIsInMiOiJlZmMxZWNjNzM1YzVhODMxZDJmNmI5MjhhYTI1MDliNmM0Zjc1Yjc1ZWI3NmQzMDViN2IwY2U0OGUwZmMyNWZkZWUzN2ZmMDFjZGFiYTU4MjQyMWVjNDMzOWNjNDFlYmIxZWFjZWM2MWQ0YTg1OTEyZTU2NDVhMjFjYTUxNmNkYyIsInQiOjE2NDc5NjAyMjgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTYuMjA5Ljc2LjM2In0.kP3h-M7lLQkFEERYlLUWj1S7dUAx9MiWHWTHJtnUL_Y/ExtractIcons.desktop</payload>
+  <tags>extract,gplv3,icon,exe,menu,original-product,addon,windows</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>Extract Here</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>merrittkr</author>
+  <homepage>https://store.kde.org/p/1617564</homepage>
+  <licence></licence>
+  <version>1.1.2</version>
+  <rating>50</rating>
+  <downloads>1297</downloads>
+  <installedfile>/home/mena/.local/share/servicemenu-download/extract_here.desktop</installedfile>
+  <id>1617564</id>
+  <releasedate>2021-12-27</releasedate>
+  <summary>Service Menu for KDE's Dolphin file manager, adds "Extract Here" to the top level context menu.&lt;br />
+&lt;br />
+If the archive contains multiple files they will be extracted to a subdirectory to prevent an archive dumping a ton of files into the current directory.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/96/31/1617564/4cdf495ed97a6e872c87d8d747af611377fd9a4f4bb0c689e145da6b6892ab485db31.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/96/31/1617564/4cdf495ed97a6e872c87d8d747af611377fd9a4f4bb0c689e145da6b6892ab485db31.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDA2MTkxNjAiLCJvIjoiMSIsInMiOiI4MDJiM2ViYjJlOTg3YjkzZTVlOTFjNTA4MTM5YmU3YzE2MmI5MGYxYjgzYTcyZWRkM2Q2NDk3NjNlNTdiODJmNTgyMzViZWY3NjkwZTU1ODBkYTI2MDY5YTNmYzg5MmNiOWVkYTkxZmRkMDAxYTU3M2Y0MjRkNzhjZjkzNTM4NyIsInQiOjE2NDc5NjAyNTYsInN0ZnAiOm51bGwsInN0aXAiOiIxNTYuMjA5Ljc2LjM2In0.KD_0Dn1N5WAVBB-4MbdejbU2ymA2hJCl8yqqolO_3dg/extract_here.desktop</payload>
+  <tags>dolphin,gplv3,extract,addon,archive,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>Mount Iso [NO root]</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>loup</author>
+  <homepage>https://store.kde.org/p/1397634</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>5352</downloads>
+  <installedfile>/home/mena/.local/share/servicemenu-download/mountiso.desktop</installedfile>
+  <id>1397634</id>
+  <releasedate>2020-06-27</releasedate>
+  <summary>Mount iso and other  images with one click&lt;br />
+&lt;br />
+To unmount an image, use the command in the terminal: &lt;br />
+$ udisksctl loop-delete -b /dev/loop0&lt;br />
+&lt;br />
+Addon uses udisksctl utility, which is already installed in kde&lt;br />
+&lt;br />
+Version with unmount option -...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/42/80/1397634/7fbe208a712af1528ecf0a08c27dad542e83.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/42/80/1397634/7fbe208a712af1528ecf0a08c27dad542e83.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTMyOTgzNDEiLCJvIjoiMSIsInMiOiI0YjcwMzkxMjgyMzYzMmUyYjFiYTJhNDkwOTFiNzc1OWY3ZDRkOGEwNGYyYWU4OTU3NjBiMjg1NGI3ZjY0YjRjYzJlMmJmOGZkZDYzN2EzZmY0ODI2YjFmNjQxZTMwNTNlNDkxZjY2YjkxMWNiZDhiZjQ2NDZiNzQ0NjRhNjdjZSIsInQiOjE2NDgwODU4OTksInN0ZnAiOm51bGwsInN0aXAiOiIxNTQuMTc4LjE5My4xMjkifQ.x1XuOLWKbLt2JrOitF-oUcOoX-TG0_8SaX11NeDh6sQ/mountiso.desktop</payload>
+  <tags>images,iso,easy,mount,lgplv3,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>Mount Unmount ISO</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>pulsar-ai</author>
+  <homepage>https://store.kde.org/p/1414733</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>57</rating>
+  <downloads>13250</downloads>
+  <installedfile>/home/mena/.local/share/servicemenu-download/mountiso.desktop</installedfile>
+  <id>1414733</id>
+  <releasedate>2020-08-22</releasedate>
+  <summary>Mount Iso Service for the Dolphin File Manager&lt;br />
+&lt;br />
+This plugin for the kde dolphin file manager adds a contextual menu entry for .iso files to either mount or unmount the file as a loopback device. This plugin uses udisksctl to either mount:&lt;br />
+&lt;br />
+$ udisksctl loop-setup -r -f...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/58/12/20/1414733/f5fb8ff543971e0cc695d6e1a1baa724f9ab7241864f6fa24c1f919f19a7c860857c.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/58/12/20/1414733/f5fb8ff543971e0cc695d6e1a1baa724f9ab7241864f6fa24c1f919f19a7c860857c.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTgwNzgwNjMiLCJvIjoiMSIsInMiOiIzYjNjNWZkYTcwYzFlMGZmYTIwZTkwMzJkYWQ1YWRjYjA2ZTQyOGViNTQzYjQ4NDhhNTY2YWM4YmE2MDFmZDc2MzdiYzM3NWQ2MDg3MzVhNjJmZTEwYjNlYTkwYTUxZDkzMTlmMDQ3ODY5ZDZmMzhkNWFjNzAyZmU5ZWE0ZGUwNyIsInQiOjE2NDgwODU5NjUsInN0ZnAiOm51bGwsInN0aXAiOiIxNTQuMTc4LjE5My4xMjkifQ.2v5MM8g_5uVfhJdqb9cmi-4POBP3DCniljMGKiYAs6E/mountiso.desktop</payload>
+  <tags>addon,apache-license,iso,mount,dolphin,efi</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

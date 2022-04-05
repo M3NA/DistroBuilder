@@ -1,0 +1,14 @@
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAH8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 XPosition=560
+eDP-1 YPosition=262
+
+[MainWindowState]
+Splitter=237,556
+
+[Search]
+ScopeSelection=0

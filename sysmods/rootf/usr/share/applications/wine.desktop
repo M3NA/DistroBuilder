@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=wine64 %f
+Name=Run in Wine
+Mimetype=application/x-dosexec
+Categories=System;
+Icon=winetricks

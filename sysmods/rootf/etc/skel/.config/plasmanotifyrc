@@ -1,0 +1,12 @@
+[Applications][appimagekit_3a48058ef277d45ae2228089429c0259-telegram_desktop]
+Seen=true
+
+[Applications][google-chrome]
+Seen=true
+
+[Jobs]
+InTaskManager=false
+
+[Notifications]
+CriticalInDndMode=false
+PopupPosition=TopRight

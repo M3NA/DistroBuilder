@@ -1,0 +1,70 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAegAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAA7gAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+eDP-1 Height 1080=466
+eDP-1 Width 1920=616
+
+[DownloadDialog Settings]
+eDP-1 Height 1080=511
+eDP-1 Width 1920=700
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=Artboard 1.jpg,file:$HOME/Downloads/Artboard 1.jpg
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+iconViewIconSize=43
+
+[KPropertiesDialog]
+eDP-1 Height 1080=458
+eDP-1 Width 1920=449
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=20
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=20
+
+[PlasmaViews][Panel 21][Defaults]
+thickness=72
+
+[PlasmaViews][Panel 21][Horizontal1920]
+thickness=72
+
+[PlasmaViews][Panel 39][Defaults]
+thickness=24
+
+[PlasmaViews][Panel 39][Horizontal1920]
+thickness=24
+
+[PlasmaViews][Panel 4][Defaults]
+thickness=46
+
+[PlasmaViews][Panel 4][Horizontal1920]
+thickness=46
+
+[PlasmaViews][Panel 61]
+alignment=132
+panelVisibility=1
+
+[PlasmaViews][Panel 61][Defaults]
+thickness=100
+
+[PlasmaViews][Panel 61][Horizontal1920]
+thickness=100
+
+[ScreenConnectors]
+0=eDP-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/desktop-base.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

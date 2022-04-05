@@ -1,0 +1,23 @@
+[Desktop Entry]
+Categories=Qt;System;
+Comment[en_US]=Calamares — Installer for CodeX-OS Live
+Comment=Calamares — Installer for CodeX-OS Live
+Exec=install-codexos
+GenericName[en_US]=Calamares Installer
+GenericName=Calamares Installer
+Icon=codexlogo
+Keywords=calamares;system;install;debian;installer
+MimeType=
+Name[en_US]=Install CodeX-OS
+Name=Install CodeX-OS
+Path=
+StartupNotify=true
+StartupWMClass=calamares
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

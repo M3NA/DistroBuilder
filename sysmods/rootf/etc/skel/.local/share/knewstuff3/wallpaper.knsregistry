@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>WhiteSur Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398833</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>66</rating>
+  <downloads>422890</downloads>
+  <installedfile>/home/mena/.local/share/wallpapers/WhiteSur/*</installedfile>
+  <id>1398833</id>
+  <releasedate>2020-07-01</releasedate>
+  <summary>MacOS big sur theme for kde plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1398833/3fdc0e89e55c612da93893fd2162539284231.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1398833/3fdc0e89e55c612da93893fd2162539284231.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM1ODg5MzciLCJvIjoiMSIsInMiOiI2NjVkMjU3ODY4YzdjOTg1OGU1ODY4YWUwMjVjMzhjNGMwNjJmN2YxOWI3N2RlYmI4YTQwZmQyYzRhZDBlOTk2ZjUzYzQ3ZDNlMjk1ODhlMTFmMTRmZjRhOGZmNTcyYmNjOGU3ZDg4MDMzNzBhNWNlMTNhNDIzZTNlYTM0NzlmMCIsInQiOjE2NDc0MTcwNTcsInN0ZnAiOm51bGwsInN0aXAiOiIxNTYuMjA5LjMyLjE4MiJ9.DJ81kT29brxlXIwW5B5ygT3w4hfJ4Gmj3IrzAaZJC1I/WhiteSur.tar.xz</payload>
+  <tags>cc-by-sa,wallpaper,artwork,plasma,original-product,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>McSur-dark Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1406023</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>13381</downloads>
+  <installedfile>/home/mena/.local/share/wallpapers/McSur-dark/*</installedfile>
+  <id>1406023</id>
+  <releasedate>2021-01-27</releasedate>
+  <summary>McSur kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+    &lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406038/" target="_blank" rel="nofollow">https://www.pling.com/p/1406038/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-light Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402092/" target="_blank" rel="nofollow">https://www.pling.com/p/1402092/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402093/" target="_blank" rel="nofollow">https://www.pling.com/p/1402093/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402091/" target="_blank" rel="nofollow">https://www.pling.com/p/1402091/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402095/" target="_blank" rel="nofollow">https://www.pling.com/p/1402095/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1402094/" target="_blank" rel="nofollow">https://www.pling.com/p/1402094/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1402090/" target="_blank" rel="nofollow">https://www.pling.com/p/1402090/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406026/" target="_blank" rel="nofollow">https://www.pling.com/p/1406026/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406030/" target="_blank" rel="nofollow">https://www.pling.com/p/1406030/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406025/" target="_blank" rel="nofollow">https://www.pling.com/p/1406025/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406032/" target="_blank" rel="nofollow">https://www.pling.com/p/1406032/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1406027/" target="_blank" rel="nofollow">https://www.pling.com/p/1406027/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-alt Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1448409/" target="_blank" rel="nofollow">https://www.pling.com/p/1448409/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>BigSur icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1399044/" target="_blank" rel="nofollow">https://www.pling.com/p/1399044/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1406023/9125bf18f796f16931be0a01fbdf8d9537331569179045ca38d11aae2b1d9dad0327.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1406023/9125bf18f796f16931be0a01fbdf8d9537331569179045ca38d11aae2b1d9dad0327.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTE3NDE4ODgiLCJvIjoiMSIsInMiOiI4MmYzY2Y3MjY2YWY5NDQ5ZWY0ZTIxOTBhYjAxOTY3MzQxNzI4Njc2NDY0MzE5MTM2NTFjNGRhN2JjZmNkYjcwNzBhMmI5MTY0YmM2N2NiMWM4MWMxODE2NTA2M2E4YWI2MWUxMGRlNWRhYmVlMzQwMTQzZWU4ZjA2NWRmZGVhOCIsInQiOjE2NDc1NzUzODAsInN0ZnAiOm51bGwsInN0aXAiOiIxNTYuMjA5LjcxLjIyOSJ9.TjP9z7wWYJ0coAWsw9aOoa-BLnmWcv_N4JACj0mwqsw/McSur-dark.zip</payload>
+  <tags>artwork,wallpaper,plasma,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

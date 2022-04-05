@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="417">
+  <name>WhiteSur latte</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1399205</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>79</rating>
+  <downloads>25224</downloads>
+  <installedfile>/home/mena/.local/share/latte-layouts/WhiteSur.layout.latte</installedfile>
+  <id>1399205</id>
+  <releasedate>2020-07-02</releasedate>
+  <summary>WhiteSur latte layout&lt;br />
+-----------------------&lt;br />
+&lt;strong>Global theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1398840/" target="_blank" rel="nofollow">https://www.pling.com/p/1398840/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>plasma theme:&lt;/strong> &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1399205/f841ef3d10c2d6cfdbcbd27e78a1d3ceca731.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1399205/f841ef3d10c2d6cfdbcbd27e78a1d3ceca731.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM2ODQ1NjkiLCJvIjoiMSIsInMiOiI5NTFiZmI5N2VkNDY0ZThmYzhhYzhlMDMwMmMxMjNhMGUzMzQzNjI3MWIyNGViMzIyNDdhODllNzdmYTRjOWRkMjAwNTlkMDAxMzE3Y2EzZjJmNzg2NTg2MzM4YTg4OGJkYmI1YjM0NWE0YzhmZjQ3NjJlYzU5MDU0Zjg0MmRmZCIsInQiOjE2NDc0MjYyNDQsInN0ZnAiOm51bGwsInN0aXAiOiIxNTYuMjA5LjE3My44MiJ9.uzteE43S7oJAEoAMo4B91QN-18xCLaynysOObZgqLg8/WhiteSur.layout.latte.tar.gz</payload>
+  <tags>unix,original-product,dock,latte,gplv3,extension,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

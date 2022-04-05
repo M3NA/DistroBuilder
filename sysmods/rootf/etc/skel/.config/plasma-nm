@@ -1,0 +1,7 @@
+[General]
+AirplaneModeEnabled=false
+HotspotConnectionPath=
+HotspotName=mena-hotspot
+HotspotPassword=
+ManageVirtualConnections=false
+UnlockModemOnDetection=true

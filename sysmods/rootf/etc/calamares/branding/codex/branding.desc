@@ -1,0 +1,36 @@
+---
+componentName:   codex
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,520px
+windowPlacement: center
+
+strings:
+    productName:         CodeX-OS GNU/Linux
+    shortProductName:    CodeX-OS
+    version:             CodeX-OS
+    shortVersion:        2.0
+    versionedName:       CodeX-OS 2.0
+    shortVersionedName:  CodeX-OS 2.0
+    bootloaderEntryName: CodeX-OS
+    productUrl:          https://os.codexeg.net
+    supportUrl:          https://os.codexeg.net/support
+    knownIssuesUrl:      https://os.codexeg.net
+    
+
+images:
+    productLogo:         "codexlogo.png"
+    productIcon:         "codexlogo.png"
+    productWelcome:      "welcome.png"
+  #  productWallpaper:  "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#000000"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#4d7079"
+   sidebarTextSelect:    "#292F34"
+
+slideshowAPI: 2

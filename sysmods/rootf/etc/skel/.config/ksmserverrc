@@ -1,0 +1,33 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=109ad5d161000164828392400000032510006
+clientId2=109ad5d161000164832584400000024990009
+clientId3=109ad5d161000164834400500000024990048
+clientId4=109ad5d161000164834413600000024990050
+count=4
+discardCommand3[$e]=rm,$HOME/.config/session/konsole_109ad5d161000164834400500000024990048_1648344278_981818
+discardCommand4[$e]=rm,$HOME/.config/session/dolphin_109ad5d161000164834413600000024990050_1648344278_981827
+program1=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+program2=pulseaudio
+program3=/usr/bin/konsole
+program4=/usr/bin/dolphin
+restartCommand1=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier,-session,109ad5d161000164828392400000032510006_1648344278_981671
+restartCommand2=
+restartCommand3=/usr/bin/konsole,-session,109ad5d161000164834400500000024990048_1648344278_981818
+restartCommand4=/usr/bin/dolphin,-session,109ad5d161000164834413600000024990050_1648344278_981827
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=mena
+userId2=mena
+userId3=mena
+userId4=mena

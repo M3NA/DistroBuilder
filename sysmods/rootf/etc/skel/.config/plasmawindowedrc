@@ -1,0 +1,15 @@
+[Applets][3]
+immutability=1
+plugin=org.kde.plasma_applet_dict
+
+[Applets][3][Configuration]
+PreloadWeight=20
+geometry=880,482,755,435
+
+[Applets][3][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Applets][3][Configuration][General]
+favoritesPortedToKAstats=true
+showLauncherNames=true

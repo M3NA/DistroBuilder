@@ -1,0 +1,21 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=add-calamares-desktop-icon
+GenericName[en_US]=
+GenericName=
+MimeType=
+Name[en_US]=Add Calamares Desktop Icon
+Name=Add Calamares Desktop Icon
+NoDisplay=true
+Path=
+StartupNotify=false
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-GNOME-Autostart-Phase=Initialization
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-KDE-autostart-phase=1

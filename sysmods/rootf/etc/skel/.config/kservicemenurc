@@ -1,0 +1,13 @@
+[Show]
+Addexetolutris=true
+extract=true
+extractIcons=true
+installFont=true
+kactivitymanagerd_fileitem_linking_plugin=false
+kdeconnectfileitemaction=true
+openTerminalHere=true
+rawExtractIcon=true
+rawExtractIcons=true
+runInKonsole=false
+sharefileitemaction=false
+tagsfileitemaction=false
