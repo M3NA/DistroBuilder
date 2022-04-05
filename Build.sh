@@ -111,7 +111,7 @@ chrot()
 echo -e "\e[1;31mAdding Dns"
 echo 'nameserver 8.8.8.8' > $etc/resolv.conf
 echo -e "\e[1;31mAdding Sources.list"
-chroot $rtdir/ apt install wget gpg gnupg* -y
+chroot $rtdir/ apt install wget sudo gpg gnupg* -y
 chroot $rtdir/ apt install linux-image-$arch -y
 
 sudo chroot $rtdir/ wget -O- https://dl.google.com/linux/linux_signing_key.pub | sudo chroot $rtdir/ gpg --dearmor > $etc/apt/trusted.gpg.d/google.gpg 
@@ -176,6 +176,8 @@ modimg(){
 #echo -e "\e[1;31mRemoving Stock FileSystem"
 rm -f $squshfs
 chroot $rtdir passwd -d root
+chroot $rtdir useradd codex -m 
+chroot $rtdir usermod -aG sudo codex 
 chrot
 echo -e "\e[1;31mSquashing FileSystem"
 mksquashfs $rtdir/ $squshfs -comp xz
