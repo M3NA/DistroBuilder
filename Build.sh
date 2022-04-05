@@ -111,7 +111,7 @@ chrot()
 echo -e "\e[1;31mAdding Dns"
 echo 'nameserver 8.8.8.8' > $etc/resolv.conf
 echo -e "\e[1;31mAdding Sources.list"
-chroot $rtdir/ apt install wget gpg..
+chroot $rtdir/ apt install wget gpg gnupg* -y
 #sudo chroot $rtdir/ wget -O- https://dl.google.com/linux/linux_signing_key.pub | sudo chroot $rtdir/ gpg --dearmor > $etc/apt/trusted.gpg.d/google.gpg 
 sudo chroot $rtdir/ wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo chroot $rtdir/ apt-key add -
 sudo chroot $rtdir/ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo chroot $rtdir/ apt-key add -
