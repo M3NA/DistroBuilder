@@ -112,6 +112,8 @@ echo -e "\e[1;31mAdding Dns"
 echo 'nameserver 8.8.8.8' > $etc/resolv.conf
 echo -e "\e[1;31mAdding Sources.list"
 chroot $rtdir/ apt install wget gpg gnupg* -y
+chroot $rtdir/ apt install linux-image-$arch -y
+
 sudo chroot $rtdir/ wget -O- https://dl.google.com/linux/linux_signing_key.pub | sudo chroot $rtdir/ gpg --dearmor > $etc/apt/trusted.gpg.d/google.gpg 
 sudo chroot $rtdir/ wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo chroot $rtdir/ apt-key add -
 sudo chroot $rtdir/ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo chroot $rtdir/ apt-key add -
@@ -153,7 +155,7 @@ sleep 5
 chroot $rtdir/ apt install --fix-broken
 echo -e "\e[1;31mInstalling Packages"
 sleep 2
-chroot $rtdir/ apt install calamares pulseaudio-module-bluetooth linux-image firmware-iwlwifi kde-spectacle google-chrome-stable cheese eom brasero shotcut geany inkscape net-tools gpm sudo curl cmake gnome-keyring ssh gdebi telnet wpasupplicant xserver-xorg-video-vesa xserver-xorg-input-all adb tlp vlc gcc build-essential libreoffice libreoffice-kde5 ark code anydesk anbox -y
+chroot $rtdir/ apt install calamares pulseaudio-module-bluetooth firmware-linux firmware-iwlwifi kde-spectacle google-chrome-stable cheese eom brasero shotcut geany inkscape net-tools gpm sudo curl cmake gnome-keyring ssh gdebi telnet wpasupplicant xserver-xorg-video-vesa xserver-xorg-input-all adb tlp vlc gcc build-essential libreoffice libreoffice-kde5 ark code anydesk anbox -y
 echo -e "\e[1;31mInstalling Wine"
 chroot $rtdir/ apt install wine* -y
 nvdiain
