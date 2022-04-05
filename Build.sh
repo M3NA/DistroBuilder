@@ -112,7 +112,7 @@ echo -e "\e[1;31mAdding Dns"
 echo 'nameserver 8.8.8.8' > $etc/resolv.conf
 echo -e "\e[1;31mAdding Sources.list"
 chroot $rtdir/ apt install wget gpg..
-sudo chroot $rtdir/ wget -O- https://dl.google.com/linux/linux_signing_key.pub | sudo chroot $rtdir/ gpg --dearmor > $etc/apt/trusted.gpg.d/google.gpg 
+#sudo chroot $rtdir/ wget -O- https://dl.google.com/linux/linux_signing_key.pub | sudo chroot $rtdir/ gpg --dearmor > $etc/apt/trusted.gpg.d/google.gpg 
 sudo chroot $rtdir/ wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo chroot $rtdir/ apt-key add -
 sudo chroot $rtdir/ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo chroot $rtdir/ apt-key add -
 sudo chroot $rtdir/  wget -O - http://apt.metasploit.com/metasploit-framework.gpg.key | sudo chroot $rtdir/ apt-key add -
@@ -135,8 +135,8 @@ deb-src http://ftp.us.debian.org/debian stretch main contrib non-free
 deb http://deb.debian.org/debian buster-backports main contrib non-free
 deb https://packages.microsoft.com/repos/vscode stable main
 deb http://deb.anydesk.com/ all main
-deb http://downloads.metasploit.com/data/releases/metasploit-framework/apt lucid main
-deb http://dl.google.com/linux/chrome/deb/ stable main
+#deb http://downloads.metasploit.com/data/releases/metasploit-framework/apt lucid main
+#deb http://dl.google.com/linux/chrome/deb/ stable main
 "> $etc/apt/sources.list
 echo -e "\e[1;31mAdding os-release"
 echo "$codename-PC" > $etc/hostname
@@ -153,7 +153,7 @@ sleep 5
 chroot $rtdir/ apt install --fix-broken
 echo -e "\e[1;31mInstalling Packages"
 sleep 2
-chroot $rtdir/ apt install calamares pulseaudio-module-bluetooth linux-firmware linux-imgae firmware-iwlwifi kde-spectacle google-chrome-stable cheese eom brasero shotcut geany inkscape net-tools gpm sudo curl cmake gnome-keyring ssh gdebi telnet wpasupplicant xserver-xorg-video-vesa xserver-xorg-input-all adb tlp vlc gcc build-essential libreoffice libreoffice-kde5 ark code anydesk anbox -y
+chroot $rtdir/ apt install calamares pulseaudio-module-bluetooth linux-imgae firmware-iwlwifi kde-spectacle google-chrome-stable cheese eom brasero shotcut geany inkscape net-tools gpm sudo curl cmake gnome-keyring ssh gdebi telnet wpasupplicant xserver-xorg-video-vesa xserver-xorg-input-all adb tlp vlc gcc build-essential libreoffice libreoffice-kde5 ark code anydesk anbox -y
 echo -e "\e[1;31mInstalling Wine"
 chroot $rtdir/ apt install wine* -y
 nvdiain
