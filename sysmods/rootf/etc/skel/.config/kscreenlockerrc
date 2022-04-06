@@ -3,3 +3,6 @@ update_info=kscreenlocker.upd:0.1-autolock
 
 [Greeter]
 Theme=com.github.vinceliuice.WhiteSur-dark
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/Codex/images/Codex.png
