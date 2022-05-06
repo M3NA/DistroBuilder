@@ -177,7 +177,7 @@ modimg(){
 rm -f $squshfs
 chroot $rtdir passwd -d root
 #chroot $rtdir useradd codex -m 
-sudo useradd -p $(openssl passwd -1 live) codex
+chroot $rtdir  useradd -p $(openssl passwd -1 live) codex
 chroot $rtdir usermod -aG sudo codex 
 chrot
 echo -e "\e[1;31mSquashing FileSystem"
