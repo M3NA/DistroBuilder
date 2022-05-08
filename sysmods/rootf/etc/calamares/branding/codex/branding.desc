@@ -10,9 +10,9 @@ strings:
     productName:         CodeX-OS GNU/Linux
     shortProductName:    CodeX-OS
     version:             CodeX-OS
-    shortVersion:        2.0
-    versionedName:       CodeX-OS 2.0
-    shortVersionedName:  CodeX-OS 2.0
+    shortVersion:        3.0
+    versionedName:       CodeX-OS 3.0
+    shortVersionedName:  CodeX-OS 3.0
     bootloaderEntryName: CodeX-OS
     productUrl:          https://os.codexeg.net
     supportUrl:          https://os.codexeg.net/support

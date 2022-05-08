@@ -19,7 +19,7 @@ baseimg=DVD.iso
 volume="$osname"
 customimg=tmp/$osname
 #isoname="$osname-DVD-$(date -u)"
-isoname="$osname-$arch-DVD"
+isoname="$osname-$arch-$version-DVD"
 rtdir="tmp/root"
 etc="$rtdir/etc"
 squshfs="$customimg/live/filesystem.squashfs"
@@ -77,18 +77,19 @@ sudo curl $url3 >> "$hosts"
 ################################################################################
 # Modding SYSTEM 
 sysmod(){
-echo -e "\e[1;31mInstalling Mac Theme"
+echo -e "\e[1;31mInstalling CODEX Theme"
 rm -r -f $rtdir/usr/share/palsma/desktoptheme/*
-rm -r -f $rtdir/usr/share/palsma/look-and-feel/org*
+rm -r -f $rtdir/usr/share/palsma/look-and-feel/*
 #rm -r -f $rtdir/usr/share/aurorae/themes/*
 rm -r -f $rtdir/usr/share/color-schemes/*
 rm -r -f $rtdir/usr/share/icons/breeze*
 rm -r -f $rtdir/usr/share/icons/oxygen*
 rm -r -f $rtdir/usr/share/Kvantum/*
-#rm -r -f $rtdir/usr/share/plymouth/*
-rm -r -f $rtdir/usr/share/desktop-base/*
-#rm -r -f $rtdir/usr/share/sddm/themes/*
-#rm -r -f $rtdir/etc/xdg/colors/*
+rm -r -f $rtdir/usr/share/wallpapers/
+rm -r -f $rtdir/usr/share/plymouth/*
+#rm -r -f $rtdir/usr/share/desktop-base/*
+rm -r -f $rtdir/usr/share/sddm/themes/*
+rm -r -f $rtdir/etc/xdg/colors/*
 cp -r $moddir/rootf/* $rtdir/
 #wget https://build.anbox.io/android-images/2018/06/12/android_amd64.img > $rtdir/var/lib/anbox/android.img
 #adblk
@@ -177,14 +178,14 @@ modimg(){
 rm -f $squshfs
 chroot $rtdir passwd -d root
 #chroot $rtdir useradd codex -m 
-chroot $rtdir  useradd -p $(openssl passwd -1 live) codex
+chroot $rtdir  useradd -p $(openssl passwd -1 live) codex -m 
 chroot $rtdir usermod -aG sudo codex 
 chrot
 echo -e "\e[1;31mSquashing FileSystem"
 mksquashfs $rtdir/ $squshfs -comp xz
 }
 ####################################################################################################################################
-###
+
 #init
 #bootsrtb
 modimg
